@@ -18,9 +18,6 @@ The command interpreter is a shell-like interface tailored to the specific use-c
 
 To start the command interpreter, run the `console.py` script:
 
-```bash
-$ ./console.py
-
 #### How to Use the Command Interpreter
 Once in interactive mode, you can use various commands to manage Airbnb objects. For a list of available commands, type help
 ##### EXAMPLES 
@@ -28,9 +25,5 @@ Once in interactive mode, you can use various commands to manage Airbnb objects.
 (hbnb) show User 123
 (hbnb) update Place 456 name "Cozy Cabin"
 (hbnb) destroy Amenity 789
-####Authors
-This project is a collaborative effort, and the following individuals have contributed content:
 
-1.Josiane Ishimwe
-2.Renoir Kaze
 
