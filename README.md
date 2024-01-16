@@ -23,14 +23,9 @@ Once in interactive mode, you can use various commands to manage Airbnb objects.
 ##### EXAMPLES 
 Here are some examples of using the command interpreter:
 
-$ ./console.py
-
+bash
 (hbnb) create User
-
 (hbnb) show User 123
-
 (hbnb) update Place 456 name "Cozy Cabin"
-
 (hbnb) destroy Amenity 789
-
 
