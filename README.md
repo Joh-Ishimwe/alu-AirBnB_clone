@@ -1,4 +1,5 @@
 # Airbnb Clone Project
+![image](https://github.com/Joh-Ishimwe/alu-AirBnB_clone/assets/127387467/c4b1f2b5-8dae-45ba-801c-c7b07a8b01f8)
 
 ## Project Description
 
