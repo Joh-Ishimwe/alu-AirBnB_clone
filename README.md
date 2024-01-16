@@ -21,6 +21,10 @@ To start the command interpreter, run the `console.py` script:
 #### How to Use the Command Interpreter
 Once in interactive mode, you can use various commands to manage Airbnb objects. For a list of available commands, type help
 ##### EXAMPLES 
+Here are some examples of using the command interpreter:
+
+$ ./console.py
+
 (hbnb) create User
 
 (hbnb) show User 123
